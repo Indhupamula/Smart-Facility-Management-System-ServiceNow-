@@ -42,9 +42,14 @@ Knowledge Management → Articles for minor self-service fixes.
 
 How This Project Demonstrates Core Support Skills:
 
-. Troubleshooting workflows, SLAs, and request handling.
-.Supporting customer-facing requests (employees as end-users).
-. Documenting solutions in Knowledge Base.
-. Workflow automation with escalation rules.
-. Dashboards & reporting for performance tracking.
-. Improving platform efficiency and user satisfaction.
+ Troubleshooting workflows, SLAs, and request handling
+
+Supporting customer-facing requests (employees as end-users).
+
+Documenting solutions in Knowledge Base.
+
+Workflow automation with escalation rules.
+
+Dashboards & reporting for performance tracking.
+
+ Improving platform efficiency and user satisfaction.
